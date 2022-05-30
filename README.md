@@ -1,5 +1,5 @@
 # Marketing Website Template | NUYsDev 🖥️
-## [Preview](https://youtu.be/QPxYdbbCjhQ) | [UI Design](https://www.behance.net/gallery/144877529/Marketing-Website-UI-Design)
+## [Preview](https://rhr3032.github.io/Marketing-Website/) | [UI Design](https://www.behance.net/gallery/144877529/Marketing-Website-UI-Design)
 
 
 ### Include this Marketing Website ➡️
